@@ -19,3 +19,27 @@ task_manager/
 │   │   ├── styles.css
 ├── app.py
 └── requirements.txt
+```
+
+## Features
+* Create new tasks
+* View all tasks
+* Update existing tasks
+* Delete tasks
+
+## Getting Started
+#### Prerequisites
+* Python 3.x
+* pip (Python package installer)
+* Virtual environment (recommended)
+#### Installation
+1. Clone the repository:
+    ```bash 
+    git clone https://github.com/yourusername/task_manager.git
+    cd task_manager
+2. Set up a virtual environment:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+3. 
+
